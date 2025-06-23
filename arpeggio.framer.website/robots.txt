@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://arpeggio.framer.website/sitemap.xml
